@@ -4,4 +4,4 @@ The Mobius Gallery is a set of user-generated Mobius models that are published o
 
 * [The Mobius Gallery Wiki](https://github.com/design-automation/mobius-gallery/wiki/Mobius-Gallery-Wiki)
 
-* [The Gallery](https://design-automation.github.io/mobius-cesium/gallery)
+* The Gallery ... coming soon
